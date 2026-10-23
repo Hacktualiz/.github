@@ -30,7 +30,7 @@
 
 HACKTUALIZ operates across two interconnected entities designed for strategic international delivery and operational field execution:
 
-- **HACKTUALIZ Inc.** — Group Headquarters (*131 Continental Dr, Suite 305, Newark, DE 19713, USA*).
+- **HACKTUALIZ Inc.** — Group Corporate Base & Registered Office (*131 Continental Dr, Suite 305, Newark, DE 19713, USA*).
 - **HACKTUALIZ SAS** — African Operations & Technology Center (*Abidjan, Côte d’Ivoire*).
 
 Supervised by **N'CHO YAO**, Senior Consultant in Cybersecurity & Artificial Intelligence.
@@ -57,8 +57,8 @@ Our operating methodology follows five strict phases: **Discover $\to$ Assess $\
   <a href="https://hackaiz.com">
     <img src="https://hacktualiz.com/__l5e/assets-v1/3b22993f-5396-435c-b34b-2d73123986ee/hackaiz-mark.png" alt="Hackaiz Logo" width="38" align="left" style="margin-right: 12px;" />
   </a>
-  <b><a href="https://hackaiz.com">Hackaiz (hackaiz.com)</a></b> — <i>Autonomous Application & AI Security Platform</i><br/>
-  Developed and operated by <b>HACKTUALIZ Inc.</b>, Hackaiz enables AI creators, engineering teams, and enterprises to discover vulnerabilities, capture contextual proofs, and generate ready-to-merge remediation Pull Requests.
+  <b><a href="https://hackaiz.com">Hackaiz (hackaiz.com)</a></b> — <i>Application Security Intelligence Platform</i><br/>
+  Developed and operated by <b>HACKTUALIZ Inc.</b>, Hackaiz analyzes authorized websites and connected repositories, provides evidence-backed security findings, prepares fixes for human review and approval, and rechecks connected, authorized systems when changes are detected. No automatic merging.
 </p>
 
 ### 🌐 Products & Ecosystem
@@ -90,7 +90,7 @@ Cloud & DevOps        : Docker, Kubernetes, Contabo VPS, AWS, CI/CD GitHub Actio
 - 🌐 **Official Website**: [https://hacktualiz.com](https://hacktualiz.com)
 - 💼 **Enterprise Inquiries**: [contact@hacktualiz.com](mailto:contact@hacktualiz.com)
 - 📞 **Office Line & WhatsApp**: +1 (606) 747-7214
-- 📍 **Headquarters (USA)**: 131 Continental Dr, Suite 305, Newark, DE 19713, USA (New Castle County)
+- 📍 **U.S. Corporate Office**: 131 Continental Dr, Suite 305, Newark, DE 19713, USA (New Castle County, Delaware)
 - 📍 **African Operations**: Abidjan, Côte d'Ivoire
 
 <div align="center">
