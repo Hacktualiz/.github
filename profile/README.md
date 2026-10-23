@@ -79,7 +79,7 @@ Cloud & DevOps        : Docker, Kubernetes, Contabo VPS, AWS, CI/CD GitHub Actio
 
 - 🌐 **Official Website**: [https://hacktualiz.com](https://hacktualiz.com)
 - 💼 **Enterprise Inquiries**: [contact@hacktualiz.com](mailto:contact@hacktualiz.com)
-- 📞 **Office Line**: +225 07 59 00 78 00
+- 📞 **Office Line**: +1 (606) 747-7214
 - 📍 **Offices**: Delaware, USA · Abidjan, Côte d'Ivoire
 
 <div align="center">
