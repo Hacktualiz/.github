@@ -51,12 +51,22 @@ Our operating methodology follows five strict phases: **Discover $\to$ Assess $\
 
 ---
 
-### ⚡ Products & Ecosystem
+### ⚡ Featured Product: Hackaiz
+
+<p align="left">
+  <a href="https://hackaiz.com">
+    <img src="https://hacktualiz.com/__l5e/assets-v1/3b22993f-5396-435c-b34b-2d73123986ee/hackaiz-mark.png" alt="Hackaiz Logo" width="38" align="left" style="margin-right: 12px;" />
+  </a>
+  <b><a href="https://hackaiz.com">Hackaiz (hackaiz.com)</a></b> — <i>Autonomous Application & AI Security Platform</i><br/>
+  Developed and operated by <b>HACKTUALIZ Inc.</b>, Hackaiz enables AI creators, engineering teams, and enterprises to discover vulnerabilities, capture contextual proofs, and generate ready-to-merge remediation Pull Requests.
+</p>
+
+### 🌐 Products & Ecosystem
 
 HACKTUALIZ engineers and operates proprietary enterprise and SaaS platforms:
 
+- **[Hackaiz](https://hackaiz.com)** — Application-security platform for websites, SaaS, APIs, and AI-enabled systems with scoped evidence management.
 - **[AGENT Z](https://hacktualiz.com/agentz)** — Flagship AI Agent Engineering program: building, red-teaming, defending, and deploying autonomous enterprise AI agents.
-- **[Hackaiz](https://hacktualiz.com/applications)** — Application-security platform for websites, SaaS products, APIs, and AI-enabled systems with scoped evidence management.
 - **[Noctely](https://hacktualiz.com/applications)** — Personal AI companion combining written and voice conversations, dream exploration, and conversational memory.
 - **[Pastoriz](https://hacktualiz.com/applications)** — Multi-organization pastoral CRM featuring member tracking, donation records, attendance analytics, and AI workflows.
 - **[SiteViral](https://hacktualiz.com/applications)** — Digital product commerce and creator distribution platform with automated payment integration.
