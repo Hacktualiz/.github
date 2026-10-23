@@ -30,7 +30,7 @@
 
 HACKTUALIZ operates across two interconnected entities designed for strategic international delivery and operational field execution:
 
-- **HACKTUALIZ Inc.** — Group Headquarters & International Direction (*Delaware, United States*).
+- **HACKTUALIZ Inc.** — Group Headquarters (*131 Continental Dr, Suite 305, Newark, DE 19713, USA*).
 - **HACKTUALIZ SAS** — African Operations & Technology Center (*Abidjan, Côte d’Ivoire*).
 
 Supervised by **N'CHO YAO**, Senior Consultant in Cybersecurity & Artificial Intelligence.
@@ -79,8 +79,9 @@ Cloud & DevOps        : Docker, Kubernetes, Contabo VPS, AWS, CI/CD GitHub Actio
 
 - 🌐 **Official Website**: [https://hacktualiz.com](https://hacktualiz.com)
 - 💼 **Enterprise Inquiries**: [contact@hacktualiz.com](mailto:contact@hacktualiz.com)
-- 📞 **Office Line**: +1 (606) 747-7214
-- 📍 **Offices**: Delaware, USA · Abidjan, Côte d'Ivoire
+- 📞 **Office Line & WhatsApp**: +1 (606) 747-7214
+- 📍 **Headquarters (USA)**: 131 Continental Dr, Suite 305, Newark, DE 19713, USA (New Castle County)
+- 📍 **African Operations**: Abidjan, Côte d'Ivoire
 
 <div align="center">
   <sub>© 2026 HACKTUALIZ Inc. All rights reserved.</sub>
